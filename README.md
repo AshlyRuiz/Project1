@@ -26,10 +26,15 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+Demonstates how the Project 1 - Profile works.
+<div>
+    <a href="https://www.loom.com/share/e6a977e3241c4493b96fc23815645db4">
+      
+    </a>
     <a href="https://www.loom.com/share/e6a977e3241c4493b96fc23815645db4">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e6a977e3241c4493b96fc23815645db4-with-play.gif">
     </a>
+  </div>
 
 ## Notes
 
