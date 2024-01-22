@@ -27,13 +27,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/e6a977e3241c4493b96fc23815645db4">
+    </a>
+    <a href="https://www.loom.com/share/e6a977e3241c4493b96fc23815645db4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e6a977e3241c4493b96fc23815645db4-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Learning the programming language was difficult as well as understanding StoryBoard. I also had some computer issues I had to get fixed. After getting the computer issues resolved and an understanding of the Swift, the project wasn't too difficult to complete. 
 
 ## License
 
