@@ -29,10 +29,10 @@ The following **additional** features are implemented:
 Demonstates how the Project 1 - Profile works.
 
 <div>
-    <a href="https://www.loom.com/share/e6a977e3241c4493b96fc23815645db4">
+    <a href="https://www.loom.com/share/1be0f73e9e4946ac97b9c4e6c3633aec">
     </a>
-    <a href="https://www.loom.com/share/e6a977e3241c4493b96fc23815645db4">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e6a977e3241c4493b96fc23815645db4-with-play.gif">
+    <a href="https://www.loom.com/share/1be0f73e9e4946ac97b9c4e6c3633aec">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1be0f73e9e4946ac97b9c4e6c3633aec-with-play.gif">
     </a>
   </div>
 ## Notes
