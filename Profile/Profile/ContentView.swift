@@ -51,10 +51,12 @@ struct ContentView: View {
                 Spacer()
             }
             .padding()
+            .background(Color.gray) // Set the background color to gray
             .navigationBarTitle("Arthur", displayMode: .inline)
         }
     }
 }
+
 
 struct DetailView: View {
     var contextItem: ContextItem
@@ -98,4 +100,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
 
