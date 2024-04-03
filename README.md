@@ -28,7 +28,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 Demonstates how the Project 1 - Profile works.
 
-https://youtu.be/00Xht7yoUmk
+<div>
+    <a href="https://www.loom.com/share/9d57f7d4bcd4497b9cb0940372f2592d">
+    </a>
+    <a href="https://www.loom.com/share/9d57f7d4bcd4497b9cb0940372f2592d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9d57f7d4bcd4497b9cb0940372f2592d-with-play.gif">
+    </a>
+  </div>
 ## Notes
 
 Learning the programming language was difficult as well as understanding StoryBoard. I also had some computer issues I had to get fixed. After getting the computer issues resolved and an understanding of the Swift, the project wasn't too difficult to complete. 
